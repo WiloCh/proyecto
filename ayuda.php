@@ -7,7 +7,8 @@
 </head>
 <body>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam repudiandae blanditiis dolore maxime temporibus quasi nam cupiditate nihil, placeat iusto omnis? Illo doloribus odio itaque beatae ut, suscipit sint nobis?</p>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque aperiam incidunt nam commodi veritatis, eos harum inventore expedita consectetur itaque maiores suscipit? Enim illum aut illo quia laboriosam ipsa dicta?</p>
+    <p>Texto de ayuda</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam nesciunt unde aut eum tempore deleniti expedita doloremque ratione amet odio dolorem asperiores, ex quis! Blanditiis ratione aut error deleniti sapiente?</p>
     
 </body>
 </html>
